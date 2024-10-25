@@ -10,7 +10,7 @@
     "dopublish": "npm publish"
   },
   "dependencies": {
-    "vue": "^2.5.17",
+    "vue": "^3.0.0",
     "@jsmith21/vue-terminal": "^1.1.2"
   },
   "devDependencies": {
